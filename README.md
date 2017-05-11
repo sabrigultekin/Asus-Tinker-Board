@@ -14,6 +14,7 @@ Asus Tinker Board Basic Applications
 <li>Servo Motor Control (PWM)</li>
 <li>Sevent Segment Control with SPI</li>
 <li>ADC Click Control with SPI</li>
+<li>MZ80 Distance Sensor</li>
 </ul>
 
 ![Asus Tinker Board Picture](https://github.com/sabrigultekin/Asus-Tinker-Board/blob/master/asustinker1.jpg)
