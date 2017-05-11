@@ -2,7 +2,7 @@
 
 Asus Tinker Board Basic Applications
 
-#### Youtube Playlist Link : <a href="https://www.youtube.com/watch?v=DazT6jO-wyI&list=PLdjdxcJDo3ioWpOb3BpYI31E47sQGNfuK" target="_blank">Click Me</a>
+#### Youtube Playlist Link : [Click Me](https://www.youtube.com/watch?v=DazT6jO-wyI&list=PLdjdxcJDo3ioWpOb3BpYI31E47sQGNfuK)
 
 ##### Contents:
 <ul>
@@ -15,3 +15,5 @@ Asus Tinker Board Basic Applications
 <li>Sevent Segment Control with SPI</li>
 <li>ADC Click Control with SPI</li>
 </ul>
+
+![Asus Tinker Board Picture](https://github.com/sabrigultekin/Asus-Tinker-Board/blob/master/asustinker1.jpg)
