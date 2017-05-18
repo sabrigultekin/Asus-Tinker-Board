@@ -15,6 +15,7 @@ Asus Tinker Board Basic Applications
 <li>Sevent Segment Control with SPI</li>
 <li>ADC Click Control with SPI</li>
 <li>MZ80 Distance Sensor</li>
+<li>Relay Board</li>
 </ul>
 
 ![Asus Tinker Board Picture](https://github.com/sabrigultekin/Asus-Tinker-Board/blob/master/asustinker1.jpg)
